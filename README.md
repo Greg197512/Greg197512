@@ -10,7 +10,7 @@
 
 <a href="https://grouaistream.com"><img src="https://img.shields.io/badge/🌐_grouaistream.com-live-A855F7?style=for-the-badge&labelColor=1a1b27" /></a>
 <a href="mailto:grzegorzkaron553@gmail.com"><img src="https://img.shields.io/badge/📧_Contact-email-22d3ee?style=for-the-badge&labelColor=1a1b27" /></a>
-<img src="https://komarev.com/ghpvc/?username=Greg197512&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Mr.Gregorius Team &style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" />
 
 </div>
 
