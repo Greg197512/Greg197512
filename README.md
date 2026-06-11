@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Gregor%20%E2%80%A2%20Greg197512&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Founder%20%C2%B7%20AI%20Builder%20%C2%B7%20Music%20Tech&descSize=20&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mr.Gregorius%20TEAM&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Founder%20%C2%B7%20AI%20Builder%20%C2%B7%20Music%20Tech&descSize=20&descAlignY=75" width="100%"/>
 
 <a href="https://github.com/Greg197512">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=640&lines=Building+GrouAI+Stream+%F0%9F%8E%B5;AI-powered+music+streaming+platform;Autonomous+AI+business+engine+%F0%9F%A4%96;Turning+ideas+into+products+with+AI" alt="Typing SVG" />
